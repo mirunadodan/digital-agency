@@ -1,0 +1,14 @@
+#topbtn {
+  display: none; 
+  position: fixed; 
+  right: 2rem;
+  bottom: 1rem;
+  z-index: 99; 
+  border: none; 
+  outline: none; 
+  cursor: pointer; 
+}
+
+#topbtn:hover {
+  opacity: 50%;
+}
